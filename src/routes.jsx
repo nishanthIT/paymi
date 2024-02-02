@@ -1,5 +1,5 @@
 import { Home, Profile, SignIn, SignUp } from "@/pages";
-import Form from "./pages/form";
+import Form from "./pages/Form";
 
 export const routes = [
   {
