@@ -10,8 +10,8 @@ function App() {
     <>
 
 
-    <div className="max-h-[1080px]  overflow-scroll ">
-               <div className="container absolute left-2/4 z-10 mx-auto -translate-x-2/4  ">
+    <div className="max-h-full  overflow-scroll ">
+               <div className="container left-2/4 z-10 mx-auto -translate-x-2/4 fixed ">
             <Navbar routes={routes} />
         </div>
       
